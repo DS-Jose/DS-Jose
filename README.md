@@ -8,6 +8,6 @@ I'm José, a motivated data analytics professional with a passion for gaining in
 
 🤔 I'm looking for opportunities to apply my analytical toolset of Excel, databases, and BI tools to solve challenging business problems through data.
 
-📫 Reach me through LinkedIn or email to discuss a project!
+📫 Reach out to me on [LinkedIn]([https://www.linkedin.com/in/your-linkedin-username/](https://www.linkedin.com/in/joservelazquez/) to discuss anything data!
 
 ⚡ Fun fact: When I'm not crunching data, you can find me outdoors hiking!
